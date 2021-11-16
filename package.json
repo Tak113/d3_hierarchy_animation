@@ -1,0 +1,14 @@
+{
+  "name": "@notanaccent/transitioning-hierarchical-layouts",
+  "main": "433d2f78fb42efa1@3218.js",
+  "version": "3218.0.0",
+  "homepage": "https://observablehq.com/@notanaccent/transitioning-hierarchical-layouts",
+  "author": {
+    "name": "notanaccent",
+    "url": "https://observablehq.com/@notanaccent"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
